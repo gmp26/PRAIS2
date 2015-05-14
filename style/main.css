@@ -2,8 +2,93 @@
 	font-family: 'ui-grid','Roboto', sans-serif;
 }
 .grid {
-    width: 1190px;
+    width: 1590px;
     height: 450px;
     font-family: 'ui-grid';
   }
+
+.image01 {
+	color: rgba(1,1,1,0);
+	background-image: url('../media/bands/horizontal-chart_u01.svg');
+	background-repeat: no-repeat;
+}
+
+.image02 {
+	color: rgba(1,1,1,0);
+	background-image: url('../media/bands/horizontal-chart_u02.svg');
+	background-repeat: no-repeat;
+}
+
+.image03 {
+	color: rgba(1,1,1,0);
+	background-image: url('../media/bands/horizontal-chart_u03.svg');
+	background-repeat: no-repeat;
+}
+
+.image04 {
+	color: rgba(1,1,1,0);
+	background-image: url('../media/bands/horizontal-chart_u04.svg');
+	background-repeat: no-repeat;
+}
+
+.image05 {
+	color: rgba(1,1,1,0);
+	background-image: url('../media/bands/horizontal-chart_u05.svg');
+	background-repeat: no-repeat;
+}
+
+.image06 {
+	color: rgba(1,1,1,0);
+	background-image: url('../media/bands/horizontal-chart_u06.svg');
+	background-repeat: no-repeat;
+}
+
+.image07 {
+	color: rgba(1,1,1,0);
+	background-image: url('../media/bands/horizontal-chart_u07.svg');
+	background-repeat: no-repeat;
+}
+
+.image08 {
+	color: rgba(1,1,1,0);
+	background-image: url('../media/bands/horizontal-chart_u08.svg');
+	background-repeat: no-repeat;
+}
+
+.image09 {
+	color: rgba(1,1,1,0);
+	background-image: url('../media/bands/horizontal-chart_u09.svg');
+	background-repeat: no-repeat;
+}
+
+.image10 {
+	color: rgba(1,1,1,0);
+	background-image: url('../media/bands/horizontal-chart_u10.svg');
+	background-repeat: no-repeat;
+}
+
+.image11 {
+	color: rgba(1,1,1,0);
+	background-image: url('../media/bands/horizontal-chart_u11.svg');
+	background-repeat: no-repeat;
+}
+.image12 {
+	color: rgba(1,1,1,0);
+	background-image: url('../media/bands/horizontal-chart_u12.svg');
+	background-repeat: no-repeat;
+}
+
+.image13 {
+	color: rgba(1,1,1,0);
+	background-image: url('../media/bands/horizontal-chart_u13.svg');
+	background-repeat: no-repeat;
+}
+
+.image14 {
+	color: rgba(1,1,1,0);
+	background-image: url('../media/bands/horizontal-chart_u14.svg');
+	background-repeat: no-repeat;
+}
+
+
 
