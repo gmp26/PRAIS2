@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+<head>
+	<meta charset="UTF-8">
+	<title>PRAIS2 web tool</title>
+	<link rel="stylesheet" href="bower_components/angular-ui-grid/ui-grid.css"/>
+	<script src="bower_components/angular/angular.js"></script>
+	<script src="bower_components/angular-animate/angular-animate.js"></script>
+	<script src="bower_components/angular-touch/angular-touch.js"></script>
+	<script src="bower_components/angular-ui-grid/ui-grid.js"></script>
+	<script src="http://ui-grid.info/docs/grunt-scripts/csv.js"></script>
+  <script src="http://ui-grid.info/docs/grunt-scripts/pdfmake.js"></script>
+  <script src="http://ui-grid.info/docs/grunt-scripts/vfs_fonts.js"></script>
+  <script src="lib/app.js"></script>
+  <link rel="stylesheet" type="text/css" href="bower_components/angular-ui-grid/ui-grid.css">
+  <link href='style/main.css' rel='stylesheet' type='text/css'>
+</head>
+<body>
+
+
+	<img src="media/labelled-vertical-chart.png" alt="predicted and actual survival chart">
+	
+
+	<div ng-controller="MainCtrl">
+      <div id="grid1" ui-grid="gridOptions" 
+      ui-grid-cellNav 
+      ui-grid-edit 
+      ui-grid-resize-columns 
+      ui-grid-pinning 
+      ui-grid-selection 
+      ui-grid-move-columns 
+      ui-grid-importer 
+      ui-grid-exporter 
+      ui-grid-grouping
+      class="grid"></div>
+	</div>
+
+	<img src="media/labelled-horizontal-chart.png" alt="predicted and actual survival chart">
+	
+</body>
+</html>

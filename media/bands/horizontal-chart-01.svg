@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 464.651 567.953" style="enable-background:new 0 0 464.651 567.953;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#010101;}
+	.st1{fill:#6C6D6D;}
+	.st2{display:none;fill:#6C6D6D;}
+	.st3{fill:#B5B6B6;}
+	.st4{fill:none;stroke:#010101;stroke-width:0.5025;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#69CCE2;}
+	.st6{fill:#32BBA6;}
+</style>
+<symbol  id="dot" viewBox="-3.5 -3.5 7 7">
+	<path class="st0" d="M3.5,0c0-1.933-1.567-3.5-3.5-3.5S-3.5-1.933-3.5,0S-1.933,3.5,0,3.5S3.5,1.933,3.5,0z"/>
+</symbol>
+<g id="worst">
+	<rect x="7.553" y="534.718" class="st1" width="137.131" height="24.814"/>
+	<rect x="7.553" y="494.175" class="st1" width="102.153" height="24.871"/>
+	<rect x="7.553" y="453.632" class="st1" width="103.686" height="24.871"/>
+	<rect x="7.553" y="413.089" class="st1" width="102.777" height="24.871"/>
+	<rect x="7.553" y="372.602" class="st1" width="117.143" height="24.871"/>
+	<rect x="7.553" y="332.059" class="st1" width="101.187" height="24.871"/>
+	<rect x="7.553" y="291.516" class="st1" width="98.746" height="24.871"/>
+	<rect x="7.553" y="251.03" class="st1" width="102.266" height="24.814"/>
+	<rect x="7.553" y="210.487" class="st1" width="89.206" height="24.871"/>
+	<rect x="7.553" y="169.943" class="st1" width="81.597" height="24.871"/>
+	<rect x="7.553" y="129.4" class="st1" width="64.676" height="24.871"/>
+	<rect x="7.553" y="88.914" class="st1" width="46.732" height="24.871"/>
+	<rect x="7.553" y="48.371" class="st1" width="25.552" height="24.871"/>
+	<rect x="-6.814" y="7.828" class="st2" width="14.366" height="24.871"/>
+</g>
+<g id="worse_1_">
+	<rect x="144.684" y="534.718" class="st3" width="33.445" height="24.814"/>
+	<rect x="109.705" y="494.175" class="st3" width="47.414" height="24.871"/>
+	<rect x="111.238" y="453.632" class="st3" width="44.915" height="24.871"/>
+	<rect x="110.33" y="413.089" class="st3" width="46.165" height="24.871"/>
+	<rect x="124.696" y="372.602" class="st3" width="40.941" height="24.871"/>
+	<rect x="108.74" y="332.059" class="st3" width="49.799" height="24.871"/>
+	<rect x="106.298" y="291.516" class="st3" width="50.139" height="24.871"/>
+	<rect x="109.819" y="251.03" class="st3" width="51.559" height="24.814"/>
+	<rect x="96.759" y="210.487" class="st3" width="46.789" height="24.871"/>
+	<rect x="89.15" y="169.943" class="st3" width="62.064" height="24.871"/>
+	<rect x="72.228" y="129.4" class="st3" width="54.625" height="24.871"/>
+	<rect x="54.285" y="88.914" class="st3" width="67.231" height="24.871"/>
+	<rect x="33.105" y="48.371" class="st3" width="79.496" height="24.871"/>
+	<rect x="7.442" y="7.828" class="st3" width="83.866" height="24.871"/>
+</g>
+<g id="normal">
+	<rect x="178.129" y="534.718" class="st4" width="104.367" height="24.814"/>
+	<rect x="157.119" y="494.175" class="st4" width="142.185" height="24.871"/>
+	<rect x="156.154" y="453.632" class="st4" width="141.219" height="24.871"/>
+	<rect x="156.495" y="413.089" class="st4" width="144.967" height="24.871"/>
+	<rect x="165.637" y="372.602" class="st4" width="122.708" height="24.871"/>
+	<rect x="158.539" y="332.059" class="st4" width="141.163" height="24.871"/>
+	<rect x="156.438" y="291.516" class="st4" width="142.071" height="24.871"/>
+	<rect x="161.378" y="251.03" class="st4" width="137.358" height="24.814"/>
+	<rect x="143.548" y="210.487" class="st4" width="159.163" height="24.871"/>
+	<rect x="151.214" y="169.943" class="st4" width="155.075" height="24.871"/>
+	<rect x="126.854" y="129.4" class="st4" width="196.526" height="24.871"/>
+	<rect x="121.516" y="88.914" class="st4" width="201.637" height="24.871"/>
+	<rect x="112.601" y="48.371" class="st4" width="222.59" height="24.871"/>
+	<rect x="91.308" y="7.828" class="st4" width="228.836" height="24.871"/>
+</g>
+<g id="better">
+	<rect x="282.496" y="534.718" class="st5" width="25.041" height="24.814"/>
+	<rect x="299.304" y="494.175" class="st5" width="36.852" height="24.871"/>
+	<rect x="297.373" y="453.632" class="st5" width="38.499" height="24.871"/>
+	<rect x="301.462" y="413.089" class="st5" width="32.991" height="24.871"/>
+	<rect x="288.345" y="372.602" class="st5" width="34.07" height="24.871"/>
+	<rect x="299.701" y="332.059" class="st5" width="33.218" height="24.871"/>
+	<rect x="298.509" y="291.516" class="st5" width="33.445" height="24.871"/>
+	<rect x="298.736" y="251.03" class="st5" width="25.78" height="24.814"/>
+	<rect x="302.711" y="210.487" class="st5" width="37.42" height="24.871"/>
+	<rect x="306.288" y="169.943" class="st5" width="41.395" height="24.871"/>
+	<rect x="323.38" y="129.4" class="st5" width="43.666" height="24.871"/>
+	<rect x="323.153" y="88.914" class="st5" width="40.316" height="24.871"/>
+	<rect x="335.191" y="48.371" class="st5" width="47.698" height="24.871"/>
+	<rect x="320.143" y="7.828" class="st5" width="32.707" height="24.871"/>
+</g>
+<g id="best">
+	<rect x="307.538" y="534.718" class="st6" width="147.846" height="24.814"/>
+	<rect x="336.156" y="494.175" class="st6" width="119.227" height="24.871"/>
+	<rect x="335.872" y="453.632" class="st6" width="119.511" height="24.871"/>
+	<rect x="334.453" y="413.089" class="st6" width="120.931" height="24.871"/>
+	<rect x="322.415" y="372.602" class="st6" width="132.969" height="24.871"/>
+	<rect x="332.92" y="332.059" class="st6" width="122.464" height="24.871"/>
+	<rect x="331.954" y="291.516" class="st6" width="123.429" height="24.871"/>
+	<rect x="324.516" y="251.03" class="st6" width="130.868" height="24.814"/>
+	<rect x="340.131" y="210.487" class="st6" width="115.253" height="24.871"/>
+	<rect x="347.683" y="169.943" class="st6" width="107.7" height="24.871"/>
+	<rect x="367.046" y="129.4" class="st6" width="88.338" height="24.871"/>
+	<rect x="363.469" y="88.914" class="st6" width="91.915" height="24.871"/>
+	<rect x="382.889" y="48.371" class="st6" width="72.495" height="24.871"/>
+	<rect x="352.85" y="7.828" class="st6" width="102.533" height="24.871"/>
+</g>
+<g id="dots">
+	
+		<use xlink:href="#dot"  width="7" height="7" x="-3.5" y="-3.5" transform="matrix(1.4125 0 0 -1.4125 222.1441 20.2737)" style="overflow:visible;"/>
+	
+		<use xlink:href="#dot"  width="7" height="7" x="-3.5" y="-3.5" transform="matrix(1.4125 0 0 -1.4125 287.4729 60.8835)" style="overflow:visible;"/>
+	
+		<use xlink:href="#dot"  width="7" height="7" x="-3.5" y="-3.5" transform="matrix(1.4125 0 0 -1.4125 269.4634 101.4933)" style="overflow:visible;"/>
+	
+		<use xlink:href="#dot"  width="7" height="7" x="-3.5" y="-3.5" transform="matrix(1.4125 0 0 -1.4125 279.7041 141.7499)" style="overflow:visible;"/>
+	
+		<use xlink:href="#dot"  width="7" height="7" x="-3.5" y="-3.5" transform="matrix(1.4125 0 0 -1.4125 171.9999 182.7128)" style="overflow:visible;"/>
+	
+		<use xlink:href="#dot"  width="7" height="7" x="-3.5" y="-3.5" transform="matrix(1.4125 0 0 -1.4125 171.6467 222.9695)" style="overflow:visible;"/>
+	
+		<use xlink:href="#dot"  width="7" height="7" x="-3.5" y="-3.5" transform="matrix(1.4125 0 0 -1.4125 196.0126 263.5793)" style="overflow:visible;"/>
+	
+		<use xlink:href="#dot"  width="7" height="7" x="-3.5" y="-3.5" transform="matrix(1.4125 0 0 -1.4125 290.2979 304.1891)" style="overflow:visible;"/>
+	
+		<use xlink:href="#dot"  width="7" height="7" x="-3.5" y="-3.5" transform="matrix(1.4125 0 0 -1.4125 133.862 344.4457)" style="overflow:visible;"/>
+	
+		<use xlink:href="#dot"  width="7" height="7" x="-3.5" y="-3.5" transform="matrix(1.4125 0 0 -1.4125 261.3414 385.0555)" style="overflow:visible;"/>
+	
+		<use xlink:href="#dot"  width="7" height="7" x="-3.5" y="-3.5" transform="matrix(1.4125 0 0 -1.4125 169.8811 425.6653)" style="overflow:visible;"/>
+	
+		<use xlink:href="#dot"  width="7" height="7" x="-3.5" y="-3.5" transform="matrix(1.4125 0 0 -1.4125 188.5969 466.2751)" style="overflow:visible;"/>
+	
+		<use xlink:href="#dot"  width="7" height="7" x="-3.5" y="-3.5" transform="matrix(1.4125 0 0 -1.4125 262.7539 506.8849)" style="overflow:visible;"/>
+	
+		<use xlink:href="#dot"  width="7" height="7" x="-3.5" y="-3.5" transform="matrix(1.4125 0 0 -1.4125 261.6945 547.4947)" style="overflow:visible;"/>
+</g>
+</svg>

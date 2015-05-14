@@ -1,0 +1,28 @@
+{
+  "name": "PRAIS2",
+  "version": "0.1.0",
+  "authors": [
+    "gmp26 <gmp26@cam.ac.uk>"
+  ],
+  "description": "web tool for PRAIS",
+  "main": "index.html",
+  "keywords": [
+    "focus"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.26",
+    "angular-touch": "1.2.26",
+    "angular-animate": "1.2.26"
+  },
+  "devDependencies": {
+    "angular-ui-grid": "~3.0.0-rc.21"
+  }
+}
