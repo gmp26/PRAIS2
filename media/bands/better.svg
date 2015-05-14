@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 447 30" style="enable-background:new 0 0 447 30;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6C6D6D;}
+	.st1{display:none;fill:#6C6D6D;}
+	.st2{fill:#B5B6B6;}
+	.st3{fill:none;stroke:#010101;stroke-width:0.5025;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#69CCE2;}
+	.st5{fill:#32BBA6;}
+	.st6{fill:#010101;}
+	.st7{fill:#FFFFFF;stroke:#010101;stroke-width:0.5025;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{fill:none;}
+	.st9{fill:none;stroke:#36B0A7;stroke-width:10;stroke-linecap:square;stroke-miterlimit:10;}
+	.st10{fill:#36B0A7;}
+	.st11{font-family:'MyriadPro-Bold';}
+	.st12{font-size:600;}
+	.st13{fill:none;stroke:#CCCCCC;stroke-width:10;stroke-linecap:square;stroke-miterlimit:10;}
+	.st14{fill:#CCCCCC;}
+</style>
+<g id="normal">
+</g>
+<g id="better">
+</g>
+<g id="best">
+</g>
+<g id="dots">
+	<rect y="0" class="st8" width="447" height="30"/>
+</g>
+<g>
+	<g>
+		<line class="st9" x1="87.667" y1="15" x2="289.579" y2="15"/>
+		<g>
+			<polygon class="st10" points="279.187,28.702 285.008,15 279.187,1.298 311.667,15 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 313.7124 19.3334)" class="st10 st11 st12">Better</text>
+</svg>

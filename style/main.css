@@ -2,10 +2,16 @@
 	font-family: 'ui-grid','Roboto', sans-serif;
 }
 .grid {
-    width: 1590px;
-    height: 450px;
+    width: 1298px;
+    height: 520px;
     font-family: 'ui-grid';
   }
+
+.image00 {
+	color: rgba(1,1,1,0);
+	background-image: url('../media/bands/better.png');
+	background-repeat: no-repeat;
+}
 
 .image01 {
 	color: rgba(1,1,1,0);

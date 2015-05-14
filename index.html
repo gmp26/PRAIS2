@@ -16,12 +16,15 @@
   <link href='style/main.css' rel='stylesheet' type='text/css'>
 </head>
 <body>
-
+  <div style="page-break-after: always">
 	<img src="media/labelled-vertical-chart.png" alt="predicted and actual survival chart">
-	
-	<div ng-controller="MainCtrl">
-      <div id="grid1" ui-grid="gridOptions" 
-      ui-grid-cellNav 
+	</div>
+
+	<div ng-controller="MainCtrl" style="page-break-after: always">
+    <div id="grid1" ui-grid="gridOptions" ui-grid-selection class="grid">
+    </div>
+  </div>
+<!--       ui-grid-cellNav 
       ui-grid-edit 
       ui-grid-resize-columns 
       ui-grid-pinning 
@@ -29,9 +32,7 @@
       ui-grid-move-columns 
       ui-grid-importer 
       ui-grid-exporter 
-      ui-grid-grouping
-      class="grid"></div>
-	</div>
+      ui-grid-grouping -->
 
 	<img src="media/labelled-horizontal-chart.png" alt="predicted and actual survival chart">
 	
