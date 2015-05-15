@@ -26,6 +26,6 @@ $ npm install http-server -g	# install a local web server
 $ http-server 					# run a local web server which serves the current folder (PRAIS2)
 ```
 
-5. If all goes well you will now be able to access the web tool as served from your local system at the URL:
+If all goes well you will now be able to access the web tool as served from your local system at the URL:
 `http://localhost:8080`.
 
