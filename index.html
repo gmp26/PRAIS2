@@ -2,7 +2,7 @@
 <html lang="en" ng-app="app">
 <head>
 	<meta charset="UTF-8">
-	<title>PRAIS2 web tool</title>
+	<title>Understanding public reporting of mortality outcomes after congenital heart surgery</title>
 	<link rel="stylesheet" href="bower_components/angular-ui-grid/ui-grid.css"/>
 	<script src="bower_components/angular/angular.js"></script>
 	<script src="bower_components/angular-animate/angular-animate.js"></script>
@@ -16,13 +16,47 @@
   <link href='style/main.css' rel='stylesheet' type='text/css'>
 </head>
 <body>
-  <div style="page-break-after: always">
-	<img src="media/labelled-vertical-chart.png" alt="predicted and actual survival chart" style="zoom:1.0">
-	</div>
+  <h1>Understanding public reporting of mortality outcomes after congenital heart surgery</h1>
 
-	<div ng-controller="MainCtrl" style="; page-break-before: always; page-break-after: always">
-    <div id="grid1" ui-grid="gridOptions" ui-grid-selection ui-grid-resize-columns class="grid">
-    </div>
+  <h2>INTRODUCTION</h2>
+
+  <p>Each year in the UK, approximately X thousand children are born with a heart defect (congenital heart disease). Many of these children benefit from heart surgery at some stage in their childhood. However, these operations are technically challenging to perform, and sometimes surgery carries substantial risks. Understandably, the public, the media, health professionals, and the health service are all concerned to know that the outcomes of these operations are being properly monitored.
+  </p>
+  <p>
+  Since 2000, all UK specialist hospitals have contributed data on all operations performed in children to the National Congenital Heart Disease Audit (NCHDA), one of seven national audits with the National Institute of Cardiovascular Outcomes Research (NICOR). Each child’s survival status is independently obtained from the Office of National Statistics (ONS) and NICOR has published hospital-specific survival outcomes for individual operation categories online since 2007. Since 2013, NICOR has also published annual reports of survival outcomes across all operations performed on children with heart disease within each hospital.
+  </p>
+  <p>
+  Currently, about 3500 children under the age of 16 have heart surgery each year in the United Kingdom and overall 97% of children survive to at least 30 days after surgery. However, congenital heart disease covers a wide range of disorders and the risk of death is very different for different conditions and children of different ages. So while comparing the number of deaths seen in different centres seems straightforward, unfortunately it is not simple (whether in congenital audit or elsewhere). We want to help people explore what the published audit data actually means and how we can use the results. 
+  </p>
+
+  <div style="page-break-after: always"></div>
+  <h2>TABLE HEADING</h2>
+  <p>Below is a table of the <a href="https://nicor4.nicor.org.uk/CHD/an_paeds.nsf/vwContent/Analysis%20Documents?Opendocument">results published by NICOR for 2010-2013</a>. For completeness and to aid interpretation, we have added some extra columns to the published table. 
+  </p>
+
+  <div ng-controller="MainCtrl">
+    
+
+  <div id="grid1" ui-grid="gridOptions1" ui-grid-selection ui-grid-resize-columns class="grid1">
+  </div>
+
+
+  <div style="page-break-after: always"></div>
+  <h2>FIGURE HEADING</h2> 
+
+  <p>The graph shows a summary of how each hospital’s actual 30-day survival rate over 2010-2013 compared to the predicted survival.  This graph matches that published by NICOR. Please see explanations below and FAQs to interpret this graph. 
+  </p>
+
+  <img src="media/labelled-vertical-chart.png" alt="predicted and actual survival chart" style="zoom:0.8">
+
+  <div style="page-break-after: always"></div>
+  <h2>TABLE + FIGURE HEADING</h2>
+
+  <p>This shows the table combined with the graph – the graph has been flipped on its side to show the same information next to the relevant information for each hospital.
+  </p>
+
+  <div id="grid2" ui-grid="gridOptions2" ui-grid-selection ui-grid-resize-columns class="grid2">
+  </div>
   </div>
 <!--       ui-grid-cellNav 
       ui-grid-edit 
@@ -33,8 +67,22 @@
       ui-grid-importer 
       ui-grid-exporter 
       ui-grid-grouping -->
+<!--
+    The standalone horizontal chart is currently unused.
 
 	<img src="media/labelled-horizontal-chart.png" alt="predicted and actual survival chart" style="zoom:1.0">
-	
+-->
+
+	<div class="footer">
+  <h3>Funding acknowledgement</h3>
+  <p>This project was funded by the National Institute for Health Research Health Services and Delivery Research Programme 
+(project number 14/19/13)</p>
+
+  <h3>Department of Health disclaimer</h3>
+  <p>The views and opinions expressed therein are those of the authors and do not necessarily reflect those of the Health Services and Delivery Research Programme, NIHR, NHS or the Department of Health.</p>
+
+
+
+  </div>
 </body>
 </html>

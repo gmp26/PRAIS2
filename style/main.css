@@ -1,11 +1,28 @@
 * {
 	font-family: 'ui-grid','Roboto', sans-serif;
 }
-.grid {
-    width: 1164px;
-    height: 700px;
+
+.grid1 {
+    width: 844px;
+    height: 680px;
+	zoom: 0.8;
     font-family: 'ui-grid';
   }
+
+.grid2 {
+    width: 1164px;
+    height: 680px;
+    zoom: 0.8;
+    font-family: 'ui-grid';
+  }
+
+.footer {
+	color: white;
+	background-color: #666;
+	padding: 20px;
+	font-size: 10px;
+	margin: 5px 0px 0px 0px !important;
+}
 
 .image00 {
 	color: rgba(1,1,1,0);
