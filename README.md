@@ -3,7 +3,10 @@ PRAIS2
 
 Communicating the risks of infant surgery
 
-Demo published at http://understandinguncertainty.org/files/animations/PRAIS2/index.html
+Releases are published at 
+
+* http://understandinguncertainty.org/files/animations/PRAIS2/index.html
+* http://understandinguncertainty.org/files/animations/PRAIS2v0-1/index.html
 
 To install locally
 ------------------
